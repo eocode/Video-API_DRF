@@ -3,6 +3,12 @@
 
 Build with dev container in VsCode
 
+## DEMO
+
+<div align="center">
+  <img src="img/1.png">
+</div>
+
 ## How to test?
 
 GET
@@ -33,4 +39,13 @@ DELETE
 
 ```bash
 curl -X DELETE http://localhost:8000/api/v1/videos/2
+```
+
+## How to use?
+
+Run VsCode Dev Containers and type:
+
+```
+pip install -r requirements.txt
+python manage.py runserver
 ```
