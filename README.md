@@ -3,6 +3,8 @@
 
 Build with dev container in VsCode
 
+Objective: Test Dev Containers in VsCode with an app in Django and DRG for development
+
 ## DEMO
 
 <div align="center">
